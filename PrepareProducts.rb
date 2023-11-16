@@ -12,6 +12,8 @@ Request Form Generation:
     Rule: Confirm that the script generates the request_form with serialized product data.
     Test: Check if the request_form contains the expected keys and values.
 '''
+
+
 # spec/
 
 require 'rails_helper'
