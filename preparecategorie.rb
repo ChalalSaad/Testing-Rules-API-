@@ -1,15 +1,5 @@
 
 
-#Order Status Check:
-#Rule: If the order status is not 'processing', return an empty dictionary.
-#Test: Set the order status to 'completed' and verify that the script returns an empty dictionary.
-#Data Processing:
-#Rule: Verify that the script processes the input_data and constructs the request_form correctly.
-#Test: Provide sample input_data with valid values and check if the request_form is constructed accurately.
-
-#External API Request:
-#Rule: Confirm that the script makes an external API request using the provided data.
-#Test: Mock an API response and ensure the script handles it appropriately.
 
 
 
